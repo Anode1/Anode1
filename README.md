@@ -7,8 +7,8 @@ Papers, with sources, data and DOIs: [articles](https://github.com/Anode1/articl
 | agents | [iac](https://github.com/Anode1/iac) | message board for LLM agents on one machine: one C binary, a plain-text log, a `recv` that wakes on inotify instead of polling, 2026 |
 | | [ais](https://github.com/Anode1/ais) | associative memory as an index: save anything under your own keys, recall by keys; plain text on your own disk, 2001 - 2026 |
 | | [agent-recipes](https://github.com/Anode1/agent-recipes) | short prompts that unlock capabilities coding agents already have, 2026 |
-| | [context-renormalization](https://github.com/Anode1/context-renormalization) | a bounded-memory protocol for continuity across multi-session agent work |
-| search (obsolete, superseded by ais indexed context) | [SMBPANN](https://github.com/Anode1/SMBPANN) | self-modifying backpropagation network: topology and hyper-parameters searched, weights trained, against a matched random-search control |
+| | [context-renormalization](https://github.com/Anode1/context-renormalization) | a bounded-memory protocol for continuity across multi-session agent work (obsolete, superseded by ais indexed context) |
+| search  | [SMBPANN](https://github.com/Anode1/SMBPANN) | self-modifying backpropagation network: topology and hyper-parameters searched, weights trained, against a matched random-search control |
 | | [bpnn](https://github.com/Anode1/bpnn) | a backpropagation feed-forward network in C99 (1997, 2000, 2015, 2026) |
 | | [cjitter](https://github.com/Anode1/cjitter) | four stochastic layout searches in C, and the uniform-random control that says which ones earned their structure |
 | | [linearr](https://github.com/Anode1/linearr) | least squares in C from a CSV whose header names the terms (2007, 2026) |
