@@ -16,7 +16,7 @@ Papers, with sources, data and DOIs: [articles](https://github.com/Anode1/articl
 | | [mincdp](https://github.com/Anode1/mincdp) | minimal, dependency-free Chrome DevTools Protocol client in C |
 | | [aisconfig](https://github.com/Anode1/aisconfig) | a template for ANSI C projects: POSIX args, Makefile |
 | | [graphcrawl](https://github.com/Anode1/graphcrawl) | crawl a graph of any size, depth N at a time (1999) |
-| | [nid](https://github.com/Anode1/nid) | a UID from a unique string |
+| | [nid](https://github.com/Anode1/nid) | a UID from a unique string (2015) |
 | | [jsp_search_results](https://github.com/Anode1/jsp_search_results) | keyset pagination in JSP and Java (2015) |
 | genomics | [aisconvert](https://github.com/Anode1/aisconvert) | personal genomics toolkit (2015) |
 | | [aisgedcom](https://github.com/Anode1/aisgedcom) | molecular genealogy over GEDCOM files (2015) |
