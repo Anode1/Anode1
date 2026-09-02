@@ -20,6 +20,6 @@ Papers, with sources, data and DOIs: [articles](https://github.com/Anode1/articl
 | | [jsp_search_results](https://github.com/Anode1/jsp_search_results) | keyset pagination in JSP and Java (2015) |
 | genomics | [aisconvert](https://github.com/Anode1/aisconvert) | personal genomics toolkit (2015) |
 | | [aisgedcom](https://github.com/Anode1/aisgedcom) | molecular genealogy over GEDCOM files (2015) |
-| | [ped2raw](https://github.com/Anode1/ped2raw) | PED to RAW SNP converter |
+| | [ped2raw](https://github.com/Anode1/ped2raw) | PED to RAW SNP converter (2015) |
 
 Linux since 1994. Plain files over services, one binary over a stack, a measured number over an adjective.
