@@ -12,8 +12,8 @@ Papers, with sources, data and DOIs: [articles](https://github.com/Anode1/articl
 | | [linearr](https://github.com/Anode1/linearr) | least squares in C from a CSV whose header names the terms (2007, 2026) |
 | search | [ais](https://github.com/Anode1/ais) | associative memory as an index: save anything under your own keys, recall by keys; plain text on your own disk, 2001 - 2026 |
 | | [cjitter](https://github.com/Anode1/cjitter) | four stochastic layout searches in C, and the uniform-random control that says which ones earned their structure |
-| | [graphcrawl](https://github.com/Anode1/graphcrawl) | crawl a graph of any size, depth N at a time (1999) |
-| systems | [ljms](https://github.com/Anode1/ljms) | a durable work queue that is one database table (2001, 20026)|
+| | [graphcrawl](https://github.com/Anode1/graphcrawl) | crawl a graph of any size, depth N at a time (1999, 2026) |
+| systems | [ljms](https://github.com/Anode1/ljms) | a durable work queue that is one database table (2001, 2026)|
 | | [mincdp](https://github.com/Anode1/mincdp) | minimal, dependency-free Chrome DevTools Protocol client in C, 2026 |
 | | [aisconfig](https://github.com/Anode1/aisconfig) | a template for ANSI C projects: POSIX args, Makefile (2007, 2017, 2026) |
 | | [nid](https://github.com/Anode1/nid) | a UID from a unique string (2015) |
