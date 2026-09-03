@@ -31,7 +31,7 @@ Sources, figures and data for each are in [articles](https://github.com/Anode1/a
 | --- | --- |
 | (*) A Wakeup, Not a Broker: The Minimal Transport for Coordinating Stateless LLM Agents ([iac](https://github.com/Anode1/articles/tree/main/iac)) | [10.5281/zenodo.21206970](https://doi.org/10.5281/zenodo.21206970); arXiv cs.MA pending endorsement |
 | (*) The Imposed and Emergent Pieces of Convolution Under an Energy Budget ([smbpann](https://github.com/Anode1/articles/tree/main/smbpann)) | [10.5281/zenodo.21423177](https://doi.org/10.5281/zenodo.21423177) |
-| (*) When Abstraction Becomes Indirection: Tokens-to-trace, measured on four stacks ([MISRA_C_vs_CPP](https://github.com/Anode1/articles/tree/main/MISRA_C_vs_CPP)) | [10.5281/zenodo.22113993](https://doi.org/10.5281/zenodo.22113993) |
+| (*) When Abstraction Becomes Indirection: Tokens-to-trace, measured on six stacks ([MISRA_C_vs_CPP](https://github.com/Anode1/articles/tree/main/MISRA_C_vs_CPP)) | [10.5281/zenodo.22113993](https://doi.org/10.5281/zenodo.22113993) |
 | (*) Compress the Access, Not the Store ([ais](https://github.com/Anode1/articles/tree/main/ais)) | [10.5281/zenodo.20764255](https://doi.org/10.5281/zenodo.20764255) |
 | (*) Artifact Promotion as a Control Model for Stable Cloud Deployment ([ControlModel](https://github.com/Anode1/articles/tree/main/ControlModel)) | [10.5281/zenodo.20451078](https://doi.org/10.5281/zenodo.20451078) |
 | (*) Backpropagation Feed-Forward Neural Networks, 1997 thesis, revised ([BPFNN_Coursework](https://github.com/Anode1/articles/tree/main/BPFNN_Coursework)) | [10.5281/zenodo.20450525](https://doi.org/10.5281/zenodo.20450525) |
