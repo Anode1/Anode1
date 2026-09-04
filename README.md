@@ -25,7 +25,7 @@ Papers, with sources, data and DOIs: [articles](https://github.com/Anode1/articl
 
 ## Papers
 
-Sources, figures and data for each are in [articles](https://github.com/Anode1/articles). (*) marks the papers headed to arXiv and then to a journal; the rest are on Zenodo only. Each group runs strongest first, novelty and interest taken together.
+Sources, figures and data for each are in [articles](https://github.com/Anode1/articles). (*) marks the papers headed to arXiv and then to a journal; the rest are on Zenodo only.
 
 | paper | where |
 | --- | --- |
