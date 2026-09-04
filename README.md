@@ -25,21 +25,21 @@ Papers, with sources, data and DOIs: [articles](https://github.com/Anode1/articl
 
 ## Papers and articles
 
-Sources, figures and data for each are in [articles](https://github.com/Anode1/articles). (*) marks the papers headed to arXiv and then to a journal; the rest are on Zenodo only.
+Sources, figures and data for each are in [articles](https://github.com/Anode1/articles). Ordered by novelty and interest taken together. (*) marks the papers headed to arXiv and then to a journal; the rest are on Zenodo only.
 
 | paper | where |
 | --- | --- |
-| (*) A Wakeup, Not a Broker: The Minimal Transport for Coordinating Stateless LLM Agents ([iac](https://github.com/Anode1/articles/tree/main/iac)) | [10.5281/zenodo.21206970](https://doi.org/10.5281/zenodo.21206970); arXiv cs.MA pending endorsement |
-| (*) The Imposed and Emergent Pieces of Convolution Under an Energy Budget ([smbpann](https://github.com/Anode1/articles/tree/main/smbpann)) | [10.5281/zenodo.21423177](https://doi.org/10.5281/zenodo.21423177); under review at Genetic Programming and Evolvable Machines |
 | (*) When Abstraction Becomes Indirection: Tokens-to-trace, measured on six stacks ([MISRA_C_vs_CPP](https://github.com/Anode1/articles/tree/main/MISRA_C_vs_CPP)) | [10.5281/zenodo.22113993](https://doi.org/10.5281/zenodo.22113993); a shorter version under review at IEEE Software |
-| (*) Compress the Access, Not the Store ([ais](https://github.com/Anode1/articles/tree/main/ais)) | [10.5281/zenodo.20764255](https://doi.org/10.5281/zenodo.20764255) |
-| (*) Artifact Promotion as a Control Model for Stable Cloud Deployment ([ControlModel](https://github.com/Anode1/articles/tree/main/ControlModel)) | [10.5281/zenodo.20451077](https://doi.org/10.5281/zenodo.20451077) (the control-model note), [10.5281/zenodo.20528903](https://doi.org/10.5281/zenodo.20528903) (the implementation case study, with Enkli Ylli; the arXiv submission) |
 | (*) What Holds a Hand-Drawn Diagram? A negative result ([cjitter](https://github.com/Anode1/articles/tree/main/cjitter)) | not deposited; targeting GD 2027 |
-| Backpropagation Feed-Forward Neural Networks, a 1997 seminar report revised in 2026: a tutorial, cited for lineage ([BPFNN_Coursework](https://github.com/Anode1/articles/tree/main/BPFNN_Coursework)) | [10.5281/zenodo.20450525](https://doi.org/10.5281/zenodo.20450525) |
-| Intelligence Is the Discovery of Compressors ([intelligence_compressors](https://github.com/Anode1/articles/tree/main/intelligence_compressors)) | [10.5281/zenodo.20440110](https://doi.org/10.5281/zenodo.20440110) |
-| Chaos Makes Many, Compression Keeps Few: Where Innovation Comes From ([innovation_compression](https://github.com/Anode1/articles/tree/main/innovation_compression)) | [10.5281/zenodo.20603482](https://doi.org/10.5281/zenodo.20603482) |
-| Conditional Probability in Diagnostic Testing: An Isomorphism Between Tree Diagrams, Bayes' Theorem, Contingency Tables and ARR/RRR ([ConditionalProbability](https://github.com/Anode1/articles/tree/main/ConditionalProbability)) | [10.5281/zenodo.20449608](https://doi.org/10.5281/zenodo.20449608) |
+| (*) The Imposed and Emergent Pieces of Convolution Under an Energy Budget ([smbpann](https://github.com/Anode1/articles/tree/main/smbpann)) | [10.5281/zenodo.21423177](https://doi.org/10.5281/zenodo.21423177); under review at Genetic Programming and Evolvable Machines |
+| (*) A Wakeup, Not a Broker: The Minimal Transport for Coordinating Stateless LLM Agents ([iac](https://github.com/Anode1/articles/tree/main/iac)) | [10.5281/zenodo.21206970](https://doi.org/10.5281/zenodo.21206970); arXiv cs.MA pending endorsement |
+| (*) Compress the Access, Not the Store ([ais](https://github.com/Anode1/articles/tree/main/ais)) | [10.5281/zenodo.20764255](https://doi.org/10.5281/zenodo.20764255) |
 | The Atree Format: A Scalable Binary-Path Notation for Ancestral Genealogies ([atree](https://github.com/Anode1/articles/tree/main/atree)) | [10.5281/zenodo.20587715](https://doi.org/10.5281/zenodo.20587715) |
+| Conditional Probability in Diagnostic Testing: An Isomorphism Between Tree Diagrams, Bayes' Theorem, Contingency Tables and ARR/RRR ([ConditionalProbability](https://github.com/Anode1/articles/tree/main/ConditionalProbability)) | [10.5281/zenodo.20449608](https://doi.org/10.5281/zenodo.20449608) |
+| (*) Artifact Promotion as a Control Model for Stable Cloud Deployment ([ControlModel](https://github.com/Anode1/articles/tree/main/ControlModel)) | [10.5281/zenodo.20451077](https://doi.org/10.5281/zenodo.20451077) (the control-model note), [10.5281/zenodo.20528903](https://doi.org/10.5281/zenodo.20528903) (the implementation case study, with Enkli Ylli; the arXiv submission) |
+| Chaos Makes Many, Compression Keeps Few: Where Innovation Comes From ([innovation_compression](https://github.com/Anode1/articles/tree/main/innovation_compression)) | [10.5281/zenodo.20603482](https://doi.org/10.5281/zenodo.20603482) |
+| Intelligence Is the Discovery of Compressors ([intelligence_compressors](https://github.com/Anode1/articles/tree/main/intelligence_compressors)) | [10.5281/zenodo.20440110](https://doi.org/10.5281/zenodo.20440110) |
+| Backpropagation Feed-Forward Neural Networks, a 1997 seminar report revised in 2026: a tutorial, cited for lineage ([BPFNN_Coursework](https://github.com/Anode1/articles/tree/main/BPFNN_Coursework)) | [10.5281/zenodo.20450525](https://doi.org/10.5281/zenodo.20450525) |
 | Pricing grid power for data centres ([energy](https://github.com/Anode1/articles/tree/main/energy)) | Substack |
 
 Linux since 1994. Plain files over services, one binary over a stack, a measured number over an adjective.
