@@ -23,7 +23,7 @@ Papers, with sources, data and DOIs: [articles](https://github.com/Anode1/articl
 | | [ped2raw](https://github.com/Anode1/ped2raw) | PED to RAW SNP converter (2015) |
 
 
-## Papers and articles
+## Papers
 
 Sources, figures and data for each are in [articles](https://github.com/Anode1/articles). (*) marks the papers headed to arXiv and then to a journal; the rest are on Zenodo only. Each group runs strongest first, novelty and interest taken together.
 
@@ -37,9 +37,16 @@ Sources, figures and data for each are in [articles](https://github.com/Anode1/a
 | (*) Artifact Promotion as a Control Model for Stable Cloud Deployment ([ControlModel](https://github.com/Anode1/articles/tree/main/ControlModel)) | [10.5281/zenodo.20451077](https://doi.org/10.5281/zenodo.20451077) (the control-model note), [10.5281/zenodo.20528903](https://doi.org/10.5281/zenodo.20528903) (the implementation case study, with Enkli Ylli; the arXiv submission) |
 | The Atree Format: A Scalable Binary-Path Notation for Ancestral Genealogies ([atree](https://github.com/Anode1/articles/tree/main/atree)) | [10.5281/zenodo.20587715](https://doi.org/10.5281/zenodo.20587715) |
 | Conditional Probability in Diagnostic Testing: An Isomorphism Between Tree Diagrams, Bayes' Theorem, Contingency Tables and ARR/RRR ([ConditionalProbability](https://github.com/Anode1/articles/tree/main/ConditionalProbability)) | [10.5281/zenodo.20449608](https://doi.org/10.5281/zenodo.20449608) |
+
+## Other articles
+
+Essays, a 1997 seminar report kept for lineage, and one policy piece.
+
+| article | where |
+| --- | --- |
 | Chaos Makes Many, Compression Keeps Few: Where Innovation Comes From ([innovation_compression](https://github.com/Anode1/articles/tree/main/innovation_compression)) | [10.5281/zenodo.20603482](https://doi.org/10.5281/zenodo.20603482) |
 | Intelligence Is the Discovery of Compressors ([intelligence_compressors](https://github.com/Anode1/articles/tree/main/intelligence_compressors)) | [10.5281/zenodo.20440110](https://doi.org/10.5281/zenodo.20440110) |
-| Backpropagation Feed-Forward Neural Networks, a 1997 seminar report revised in 2026: a tutorial, cited for lineage ([BPFNN_Coursework](https://github.com/Anode1/articles/tree/main/BPFNN_Coursework)) | [10.5281/zenodo.20450525](https://doi.org/10.5281/zenodo.20450525) |
+| Backpropagation Feed-Forward Neural Networks, a 1997 seminar report revised in 2026 ([BPFNN_Coursework](https://github.com/Anode1/articles/tree/main/BPFNN_Coursework)) | [10.5281/zenodo.20450525](https://doi.org/10.5281/zenodo.20450525) |
 | Pricing grid power for data centres ([energy](https://github.com/Anode1/articles/tree/main/energy)) | Substack |
 
 Linux since 1994. Plain files over services, one binary over a stack, a measured number over an adjective.
