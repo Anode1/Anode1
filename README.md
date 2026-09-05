@@ -15,6 +15,7 @@ Papers, with sources, data and DOIs: [articles](https://github.com/Anode1/articl
 | | [graphcrawl](https://github.com/Anode1/graphcrawl) | crawl a graph of any size, depth N at a time (1999, 2026) |
 | systems | [ljms](https://github.com/Anode1/ljms) | a durable work queue that is one database table (2001, 2026)|
 | | [mincdp](https://github.com/Anode1/mincdp) | minimal, dependency-free Chrome DevTools Protocol client in C, 2026 |
+| | [webproject](https://github.com/Anode1/webproject) | a template for Java/MySQL web projects: token security with roles, registration, admin, Ant build, build-once artifact promotion to the cloud, 2026 |
 | | [aisconfig](https://github.com/Anode1/aisconfig) | a template for ANSI C projects: POSIX args, Makefile (2007, 2017, 2026) |
 | | [nid](https://github.com/Anode1/nid) | a UID from a unique string (2015) |
 | | [jsp_search_results](https://github.com/Anode1/jsp_search_results) | keyset pagination in JSP and Java (2015) |
