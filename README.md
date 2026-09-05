@@ -30,7 +30,7 @@ Sources, figures and data for each are in [articles](https://github.com/Anode1/a
 | paper | where |
 | --- | --- |
 | (*) When Abstraction Becomes Indirection: Tokens-to-trace, measured on six stacks ([MISRA_C_vs_CPP](https://github.com/Anode1/articles/tree/main/MISRA_C_vs_CPP)) | [10.5281/zenodo.22113993](https://doi.org/10.5281/zenodo.22113993); a shorter version under review at IEEE Software |
-| (*) What Holds a Hand-Drawn Diagram? A negative result ([cjitter](https://github.com/Anode1/articles/tree/main/cjitter)) | [10.5281/zenodo.22313827](https://doi.org/10.5281/zenodo.22313827); targeting GD 2027 |
+| (*) What Holds a Hand-Drawn Diagram? Alignment holds their boxes where the tuned criteria do not ([cjitter](https://github.com/Anode1/articles/tree/main/cjitter)) | [10.5281/zenodo.22313827](https://doi.org/10.5281/zenodo.22313827); targeting GD 2027 |
 | (*) The Imposed and Emergent Pieces of Convolution Under an Energy Budget ([smbpann](https://github.com/Anode1/articles/tree/main/smbpann)) | [10.5281/zenodo.21423177](https://doi.org/10.5281/zenodo.21423177); under review at Genetic Programming and Evolvable Machines |
 | (*) A Wakeup, Not a Broker: The Minimal Transport for Coordinating Stateless LLM Agents ([iac](https://github.com/Anode1/articles/tree/main/iac)) | [10.5281/zenodo.21206970](https://doi.org/10.5281/zenodo.21206970); arXiv cs.MA pending endorsement |
 | (*) Compress the Access, Not the Store ([ais](https://github.com/Anode1/articles/tree/main/ais)) | [10.5281/zenodo.20764255](https://doi.org/10.5281/zenodo.20764255) |
