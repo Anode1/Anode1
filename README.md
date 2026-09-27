@@ -37,7 +37,7 @@ Sources, figures and data for each are in [articles](https://github.com/Anode1/a
 | (*) Compress the Access, Not the Store ([ais](https://github.com/Anode1/articles/tree/main/ais)) | [10.5281/zenodo.20764255](https://doi.org/10.5281/zenodo.20764255) |
 | (*) Artifact Promotion as a Control Model for Stable Cloud Deployment ([ControlModel](https://github.com/Anode1/articles/tree/main/ControlModel)) | [10.5281/zenodo.20451077](https://doi.org/10.5281/zenodo.20451077) (the control-model note), [10.5281/zenodo.20528903](https://doi.org/10.5281/zenodo.20528903) (the implementation case study, with Enkli Ylli; the arXiv submission) |
 | The Atree Format: A Scalable Binary-Path Notation for Ancestral Genealogies ([atree](https://github.com/Anode1/articles/tree/main/atree)) | [10.5281/zenodo.20587715](https://doi.org/10.5281/zenodo.20587715) |
-| Conditional Probability in Diagnostic Testing: An Isomorphism Between Tree Diagrams, Bayes' Theorem, Contingency Tables and ARR/RRR ([ConditionalProbability](https://github.com/Anode1/articles/tree/main/ConditionalProbability)) | [10.5281/zenodo.20449608](https://doi.org/10.5281/zenodo.20449608) |
+| Conditional Probability in Diagnostic Testing: One Calculation in Four Notations, Tree, Bayes' Theorem, Contingency Table, and Likelihood Ratios, with the Clinical Risk Measures Read from the Same Table ([ConditionalProbability](https://github.com/Anode1/articles/tree/main/ConditionalProbability)) | [10.5281/zenodo.20449608](https://doi.org/10.5281/zenodo.20449608) |
 
 ## Other articles
 
