@@ -1,6 +1,6 @@
 **Small tools in plain C and plain text, and the papers that measure them.**
 
-Papers, with sources, data and DOIs: [articles](https://github.com/Anode1/articles). Short notes: [notes](https://github.com/Anode1/notes).
+Papers, with sources, data and DOIs: [articles](https://github.com/Anode1/articles), also on [Google Scholar](https://scholar.google.com/citations?user=7xlK2_gAAAAJ) and [ORCID](https://orcid.org/0009-0007-9371-5994). Short notes: [notes](https://github.com/Anode1/notes).
 
 | area | project | what it is |
 | --- | --- | --- |
